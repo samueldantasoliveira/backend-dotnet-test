@@ -1,0 +1,15 @@
+/home/samuel/DEV/backend-dotnet-test/TesteLogica/bin/Debug/net9.0/TesteLogica
+/home/samuel/DEV/backend-dotnet-test/TesteLogica/bin/Debug/net9.0/TesteLogica.deps.json
+/home/samuel/DEV/backend-dotnet-test/TesteLogica/bin/Debug/net9.0/TesteLogica.runtimeconfig.json
+/home/samuel/DEV/backend-dotnet-test/TesteLogica/bin/Debug/net9.0/TesteLogica.dll
+/home/samuel/DEV/backend-dotnet-test/TesteLogica/bin/Debug/net9.0/TesteLogica.pdb
+/home/samuel/DEV/backend-dotnet-test/TesteLogica/obj/Debug/net9.0/TesteLogica.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/DEV/backend-dotnet-test/TesteLogica/obj/Debug/net9.0/TesteLogica.AssemblyInfoInputs.cache
+/home/samuel/DEV/backend-dotnet-test/TesteLogica/obj/Debug/net9.0/TesteLogica.AssemblyInfo.cs
+/home/samuel/DEV/backend-dotnet-test/TesteLogica/obj/Debug/net9.0/TesteLogica.csproj.CoreCompileInputs.cache
+/home/samuel/DEV/backend-dotnet-test/TesteLogica/obj/Debug/net9.0/TesteLogica.sourcelink.json
+/home/samuel/DEV/backend-dotnet-test/TesteLogica/obj/Debug/net9.0/TesteLogica.dll
+/home/samuel/DEV/backend-dotnet-test/TesteLogica/obj/Debug/net9.0/refint/TesteLogica.dll
+/home/samuel/DEV/backend-dotnet-test/TesteLogica/obj/Debug/net9.0/TesteLogica.pdb
+/home/samuel/DEV/backend-dotnet-test/TesteLogica/obj/Debug/net9.0/TesteLogica.genruntimeconfig.cache
+/home/samuel/DEV/backend-dotnet-test/TesteLogica/obj/Debug/net9.0/ref/TesteLogica.dll
