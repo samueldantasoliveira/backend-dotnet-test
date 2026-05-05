@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TesteLogica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca7cd15b94141feab65982b5d0438e298b7e3391")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+575f5b0642bb0dc37dfcfa2e634dd5f08d707c0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TesteLogica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TesteLogica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
